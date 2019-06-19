@@ -2,7 +2,6 @@
 ePaper interface for Conference Room Assistent System (CRAS)
 
 Das Projekt setzt sich dabei aus mehreren Modulen zusammen:
-* **cras** - Dieses Projekt stellt ein responsives Angular Frontend bereit
 * **[cras](https://github.com/jenszech/cras)** - stellt das benötigte Backend bereit
 * **[kras](https://github.com/julienP88/kras)** - stellt ein responsives Angular Frontend bereit
 * Optional **[crasBadgeIt](https://github.com/jenszech/crasBadgeIt)** - Ein microcontroller projekt for small ePaper devices
