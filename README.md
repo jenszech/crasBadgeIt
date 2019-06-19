@@ -1,6 +1,8 @@
 # crasBadgeIt
 ePaper interface for Conference Room Assistent System (CRAS)
 
+Note that because this example puts the ESP into a deep sleep if you want to reprogram it via the USB then you have to manually stop and restart it using the slider switch at the moment just prior to the upload starting.
+
 Das Projekt setzt sich dabei aus mehreren Modulen zusammen:
 * **[cras](https://github.com/jenszech/cras)** - stellt das benötigte Backend bereit
 * **[kras](https://github.com/julienP88/kras)** - stellt ein responsives Angular Frontend bereit
@@ -18,6 +20,14 @@ Das Projekt setzt sich dabei aus mehreren Modulen zusammen:
 ## Getting Started
 
 ### Prerequisites
+- See the base required libraries in the root Readme for this repository
+- GxEPD 2.x
+- ArduinJSON 5.x
+- Time 1.5.0 - You can find the repo [here] (https://github.com/PaulStoffregen/Time)).  
+
+### Instructions
+- Download code sample and required libraries, and compile/upload in the Arduino IDE (1.8.5)
+- Sometimes the API will return an error if the service is unavailable, simply restart Badgy to try again
 
 
 ## Built With
