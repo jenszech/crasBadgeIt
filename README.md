@@ -3,19 +3,19 @@ ePaper interface for Conference Room Assistent System (CRAS)
 
 Note that because this example puts the ESP into a deep sleep if you want to reprogram it via the USB then you have to manually stop and restart it using the slider switch at the moment just prior to the upload starting.
 
-Das Projekt setzt sich dabei aus mehreren Modulen zusammen:
-* **[cras](https://github.com/jenszech/cras)** - stellt das benötigte Backend bereit
-* **[kras](https://github.com/julienP88/kras)** - stellt ein responsives Angular Frontend bereit
-* Optional **[crasBadgeIt](https://github.com/jenszech/crasBadgeIt)** - Ein microcontroller projekt for small ePaper devices
-* Optional **[crasAndroidViewer](https://github.com/jenszech/crasAndroidViewer)** - Eine Android App mit einem einfachem fullscreen Webviewer (benötigt das kras Frontend)
+The project is based on different modules
+* **[cras](https://github.com/jenszech/cras)** - needed backend project
+* **[kras](https://github.com/julienP88/kras)** - optional responsive Angular frontend 
+* Optional **[crasBadgeIt](https://github.com/jenszech/crasBadgeIt)** - this microcontroller project for small ePaper devices
+* Optional **[crasAndroidViewer](https://github.com/jenszech/crasAndroidViewer)** - a simple android webviewer
 
 ## Features
 
-* tbd.
+* 
 
 ### Roadmap
 
-* tbd.
+* 
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ Das Projekt setzt sich dabei aus mehreren Modulen zusammen:
 
 ## Built With
 
-* tbd.
+* 
 
 ## Contributing
 
